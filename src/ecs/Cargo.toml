@@ -1,0 +1,9 @@
+[package]
+name = "ecs"
+description = "ecs for mk"
+authors = ["AcrylicShrimp <led789zxpp@naver.com>"]
+version = "0.0.0"
+edition = "2018"
+
+[dependencies]
+downcast-rs = { version = "1.2.0"}
